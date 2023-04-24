@@ -12,14 +12,6 @@ void unitTesting();
 int main() {
 	roster classRoster;
 
-	// My Details
-	cout << "Scripting and Programming - Applications (C867)" << endl;
-	cout << "Written in C++" << endl;
-	cout << "Student ID: 001204693" << endl;
-	cout << "Name: Nelson C. Araujo" << endl;
-	cout << endl;
-	
-
 	// Populate the roster with students
 	classRoster.createSampleStudents();
 
